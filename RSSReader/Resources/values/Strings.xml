@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="SwagRecords">Swag Records</string>
+	<string name="EnterSwag">Record Swag Given Away</string>
+	<string name="SwagCounter">Swag Counter</string>
+	<string name="ShareTwitter">Swag on Twitter!</string> 
+</resources>
